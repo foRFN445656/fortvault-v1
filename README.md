@@ -1,13 +1,5 @@
 # fortvault-v1
 we back better then ever!
-# Welcome to ByZN's repository for Fortnite Versions !
-
-### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/main/Projects.md) to browse through some projects to play !
-### [Or here](https://drive.google.com/drive/folders/1HCdgdSUJjabiQc0r_psrWCLFI4Mk0VPs?usp=sharing) to download some paks/mods !
-
-Sticky Note : I'm calling out to all people that has missing builds for them to contact me and provide them, I'm working with Dimiraku to host our own builds on our own servers!
-
-## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
 # Downloads
 
@@ -61,7 +53,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		Download : [1](https://builds.rebootfn.org/4.0.zip) |		
-| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Link down, dm @wallonia on discord if u got a link! |	
+| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Link down, |	
 | 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 Download : [1](https://builds.rebootfn.org/4.2.zip) ; [2](https://galaxiafn.co.uk/4.2.zip)|		
 | 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           Download : [1](https://builds.rebootfn.org/4.4.rar) |		
 | 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |          Download : [1](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view)  |	
@@ -408,31 +400,4 @@ v27.11 - 28 GB | The Big Bang | Play using Carbon
 
 Will need an update lol
 
-## Credits
-
-[Aorux](https://github.com/Aorux01) - Lots of builds hosted on his CDN !
-
-BLK - For almost all chapter 1 links and most chapter 2 links
-
-[Reboot](https://discord.gg/rebootmp) - For most C1-C2 links
-
-[FN-Builds](https://fn-builds.net) - S21+ links and some S12 and S18 links
-
-[Solaris](https://discord.gg/solarisfn) - 10.00 and 21.00
-
-Ploosh - 21.00 and 19.01
-
-GalaxiaFN - Links for some seasons
-
-[Boosted](https://discord.gg/eonfn) - 12.41
-
-Aufgeladen - 12.41
-
-[llamaqwerty](https://github.com/llamaqwerty) - Helping me fine some links throughout his [repository](https://github.com/llamaqwerty/fortnite-builds-archive)
-
-
-
-And everyone else who uploaded builds and dm'ed me with new links :)
-
-
-If you got more builds, feel free to dm @wallonia on discord !
+gg thxx for taking the ride with fv!
